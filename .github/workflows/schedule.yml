@@ -1,3 +1,5 @@
+name: Test1
+
 on:
   schedule:
     - cron: '*/5 * * * *'
